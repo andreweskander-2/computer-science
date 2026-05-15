@@ -128,6 +128,37 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9)
 
+## Course Progress Checklist
+
+- [ ] Lecture 1: Introduction
+- [ ] Lecture 2: Strings, Input/Output, Branching
+- [ ] Lecture 3: Iteration
+- [ ] Lecture 4: Loops over Strings, Guess-and-Check, Binary
+- [ ] Lecture 5: Floats and Approximation Methods
+- [ ] Lecture 6: Bisection Search
+- [ ] Lecture 7: Decomposition, Abstraction, Functions
+- [ ] Lecture 8: Functions as Objects
+- [ ] Lecture 9: Lambda Functions, Tuples, and Lists
+- [ ] Lecture 10: Lists, Mutability
+- [ ] Lecture 11: Aliasing, Cloning
+- [ ] Lecture 12: List Comprehension, Functions as Objects, Testing, Debugging
+- [ ] Lecture 13: Exceptions, Assertions
+- [ ] Lecture 14: Dictionaries
+- [ ] Lecture 15: Recursion
+- [ ] Lecture 16: Recursion on Non-Numerics
+- [ ] Lecture 17: Python Classes
+- [ ] Lecture 18: More Python Class Methods
+- [ ] Lecture 19: Inheritance
+- [ ] Lecture 20: Fitness Tracker Object-Oriented Programming Example
+- [ ] Lecture 21: Timing Programs, Counting Operations
+- [ ] Lecture 22: Big Oh and Theta
+- [ ] Lecture 23: Complexity Classes Examples
+- [ ] Lecture 24: Sorting Algorithms
+- [ ] Lecture 25: Plotting
+- [ ] Lecture 26: List Access, Hashing, Simulations, and Wrap-Up
+
+
+
 ## Core CS
 
 All coursework under Core CS is **required**, unless otherwise indicated.
