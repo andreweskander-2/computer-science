@@ -21,6 +21,7 @@
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
+- [Progress](#Course-Progress-Checklist)
 
 # Summary
 
@@ -130,12 +131,12 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 ## Course Progress Checklist
 
-- [ ] Lecture 1: Introduction
-- [ ] Lecture 2: Strings, Input/Output, Branching
-- [ ] Lecture 3: Iteration
-- [ ] Lecture 4: Loops over Strings, Guess-and-Check, Binary
-- [ ] Lecture 5: Floats and Approximation Methods
-- [ ] Lecture 6: Bisection Search
+- [x] Lecture 1: Introduction
+- [x] Lecture 2: Strings, Input/Output, Branching
+- [x] Lecture 3: Iteration
+- [x] Lecture 4: Loops over Strings, Guess-and-Check, Binary
+- [x] Lecture 5: Floats and Approximation Methods
+- [x] Lecture 6: Bisection Search
 - [ ] Lecture 7: Decomposition, Abstraction, Functions
 - [ ] Lecture 8: Functions as Objects
 - [ ] Lecture 9: Lambda Functions, Tuples, and Lists
